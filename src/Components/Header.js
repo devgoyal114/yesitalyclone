@@ -20,7 +20,7 @@ function Header() {
                     <nav className="navbar navbar-expand-lg  bg-white">
                         <div className="container-fluid">
                             <div className='mx-auto'>
-                                <img style={{ width: '220px', height: '100px' }} src='YES-Italy-1024x476.png' />
+                                <img style={{ width: '220px', height: '100px' }} src='YES-Italy-1024x476.png' alt=''/>
                             </div>
 
                             <div className="collapse navbar-collapse" style={{ marginLeft: '170px' }} id="navbarSupportedContent">

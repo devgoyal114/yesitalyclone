@@ -32,12 +32,11 @@ function Hero() {
                                                 <button type="button" style={{ backgroundColor: '#cf2e2e', color: 'white' }} className="btn fs-6 mt-2 ms-5">BOOK YOUR FREE CONSULTATION</button>
                                             </div>
                                             <div className='mx-1 mt-3'>
-                                                <img src='education.svg' style={{ height: '25px', width: '25px' }} />100+ Courses
-                                                <img src='meeting.svg' style={{ height: '25px', width: '25px' }} /> 10K+ Counseled
+                                                <img src='education.svg' style={{ height: '25px', width: '25px' }} alt=''/>100+ Courses
+                                                <img src='meeting.svg' style={{ height: '25px', width: '25px' }} alt=''/> 10K+ Counseled
                                                 <hr />
                                             </div>
-
-
+                                            
                                             <div className='col-md-6'>
                                                 <div className="mb-2">
                                                     <label className="form-label text-black">Full Name*</label>
